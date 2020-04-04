@@ -1,0 +1,11 @@
+/Users/alex/Desktop/01_coding_dojo/04_C#/00_overview/FirstCSharp/bin/Debug/netcoreapp2.2/FirstCSharp.deps.json
+/Users/alex/Desktop/01_coding_dojo/04_C#/00_overview/FirstCSharp/bin/Debug/netcoreapp2.2/FirstCSharp.runtimeconfig.json
+/Users/alex/Desktop/01_coding_dojo/04_C#/00_overview/FirstCSharp/bin/Debug/netcoreapp2.2/FirstCSharp.runtimeconfig.dev.json
+/Users/alex/Desktop/01_coding_dojo/04_C#/00_overview/FirstCSharp/bin/Debug/netcoreapp2.2/FirstCSharp.dll
+/Users/alex/Desktop/01_coding_dojo/04_C#/00_overview/FirstCSharp/bin/Debug/netcoreapp2.2/FirstCSharp.pdb
+/Users/alex/Desktop/01_coding_dojo/04_C#/00_overview/FirstCSharp/obj/Debug/netcoreapp2.2/FirstCSharp.csprojAssemblyReference.cache
+/Users/alex/Desktop/01_coding_dojo/04_C#/00_overview/FirstCSharp/obj/Debug/netcoreapp2.2/FirstCSharp.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/01_coding_dojo/04_C#/00_overview/FirstCSharp/obj/Debug/netcoreapp2.2/FirstCSharp.AssemblyInfoInputs.cache
+/Users/alex/Desktop/01_coding_dojo/04_C#/00_overview/FirstCSharp/obj/Debug/netcoreapp2.2/FirstCSharp.AssemblyInfo.cs
+/Users/alex/Desktop/01_coding_dojo/04_C#/00_overview/FirstCSharp/obj/Debug/netcoreapp2.2/FirstCSharp.dll
+/Users/alex/Desktop/01_coding_dojo/04_C#/00_overview/FirstCSharp/obj/Debug/netcoreapp2.2/FirstCSharp.pdb
